@@ -1,0 +1,12 @@
+body{
+  
+  background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2019_13/2798361/190325-rental-cars-cs-229p.jpg');
+  background-size:cover;
+}
+
+.center_align{
+	padding-top:180px;
+    text-align:center;
+    font-size: 80px;
+}
+

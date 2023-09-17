@@ -1,0 +1,110 @@
+.bikebg{
+  
+    background-color: rgb(39, 39, 39);
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+
+
+.caption{
+    margin-top: 8%;
+   
+    text-align: center;
+  
+
+    
+
+}
+.caption h2{
+   font-size: 60px;
+   letter-spacing: 18px;  
+}
+.caption p1{
+    font-size: 25px;
+    letter-spacing: 20px;  
+}
+
+.caption .line{
+    margin-top: 35px;
+    border: 1px solid black;
+    width: 60%;
+    margin-left: 20%;
+}
+
+.wrapper{
+
+
+}
+
+.listings{
+
+
+    
+
+}
+
+
+
+.properties_list{
+  
+    margin-top: 5%;
+    display: flex;
+
+
+    padding-left: 50px;
+    padding-right: 50px;
+
+    justify-content: center;
+
+
+
+  
+
+
+  
+}
+
+.properties_list li{
+    padding-left: 50px;
+    padding-right: 50px;
+
+    justify-content: center;
+    
+}
+
+.properties_list a{
+
+    color: rgb(255, 255, 255);
+
+ 
+
+   
+    display: flex;
+}
+
+.price{ 
+    color: rgb(255, 255, 255);
+    padding-left: 10px;
+   
+    
+}
+
+
+.properties_list li p{
+    margin-top: 3%;
+    padding-left: 10px;
+    
+}
+
+.properties_list h2{
+ 
+    color: rgb(202, 202, 202);
+    text-decoration: none;
+    width: 40px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+  
+}
+
+

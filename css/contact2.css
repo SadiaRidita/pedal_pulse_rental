@@ -1,0 +1,62 @@
+.head{
+  position: absolute;
+
+
+  height: 100%;
+  width: 100%;
+  padding: 30px 15%;
+  display: flex;
+  align-items:center;
+  background-image: url('../img/homepage2.jpg');
+  color: aliceblue;
+
+ 
+ 
+}
+
+.head .context{
+   
+    max-width:  490px;
+ 
+}
+
+.head .context h1{
+   
+    font-weight: 900;
+    font-size: 60PX;
+    letter-spacing: 26px;
+    
+    
+}
+.head .context h2{
+   
+    font-weight: 800;
+    font-size: 50PX;
+    letter-spacing: 10px;
+  
+    
+    
+}
+.head .context p1{
+   
+  bac
+
+    
+    
+}
+
+.textbox{
+  margin: 0 60px;
+  font-size: 40PX;
+ 
+}
+
+.context img{
+  background-color: aqua;
+
+}
+
+
+.navbar{
+    color:rgb(255, 255, 255) ;
+}

@@ -1,0 +1,31 @@
+.head{
+  position: fixed;
+  top: 10%;
+  left: 0%;
+  width: 100%;
+  padding: 30px 8%;
+  display: flex;
+  align-items:center;
+  text-decoration: none;
+  font-size: 40px;
+
+
+ 
+ 
+}
+
+.head .context{
+ text-decoration: none;
+ font-size: 40px;
+
+ 
+}
+
+
+.textbox{
+  margin: 0 20px;
+ 
+}
+
+
+

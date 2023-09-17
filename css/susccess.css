@@ -1,0 +1,25 @@
+*{
+  background-color: aqua;
+}
+
+
+.wrapper h2{
+    color: rgb(0, 38, 255);
+    font-size: 600px;
+    background-color: black;
+    overflow: hidden;
+ }
+ 
+ .g{
+  
+    background-image: url('../img/desh.jpg');
+    background-color: aqua;
+    padding: 100px 100%;
+ }
+
+
+
+ <div class="g">
+		<?php
+			include 'header.php';
+		?>
